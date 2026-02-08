@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ranma Theme
+Comment=A theme inspired by the Ranma 1/2 anime remake
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ranma Theme
+MetacityTheme=Ranma Theme
+IconTheme=Tela-green
+ButtonLayout=menu:minimize,maximize,close
